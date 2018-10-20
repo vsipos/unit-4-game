@@ -1,0 +1,70 @@
+body {
+    background: url(../images/Background.jpg)
+}
+
+.title {
+    background: orange;
+    color: white;
+    float: left;
+}
+
+.instructions {
+    color: green;
+    font-style: bold;
+    background: lightgoldenrodyellow;
+    float: left;
+    clear: left;
+    margin-top: 20px;
+}
+
+.random {
+    float: left; 
+    clear: left; 
+    color: rgb(163, 107, 163);
+    background: rgb(88, 175, 88);
+    margin-top: 20px;
+    padding-bottom: 60px;
+    padding-right: 80px; 
+    padding-left: 10px;
+}
+
+.winsandlosses {
+    float: left; 
+    font-size: 13px;
+    margin-left: 30px; 
+    background: aqua;
+    margin-top: 20px;
+    padding-bottom: 25px;
+    padding-right: 45px;
+}
+
+.gemImage {
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+#one {
+    width: 140px;
+    height: 140px;
+}
+
+.userTotal {
+    float: left; 
+    clear: left; 
+    color: white;
+    background: turquoise;
+    margin-top: 15px;
+    padding-right: 120px;
+    padding-left: 5px;
+}
+
+.finalTotal {
+    float: left; 
+    clear: left; 
+    color: white;
+    background: turquoise;
+    margin-top: 15px;
+    padding-right: 120px;
+    padding-left: 5px;
+}
